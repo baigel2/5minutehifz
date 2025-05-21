@@ -1,3 +1,6 @@
+[Journal Entries](journal/index.html)
+
+
 # Five Minute Hifz:
 
 Welcome to my experiment in Quran memorisation.
