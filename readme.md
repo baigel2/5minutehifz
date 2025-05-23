@@ -5,11 +5,11 @@
 
 Welcome to my experiment in Quran memorisation.
 
-You can read about the inspiration behind the method on my blog [People Of The Book](peopleofthebook.co.uk/posts/hifz1)
+You can read about the inspiration behind the method on my blog [People Of The Book](https://baigel2.github.io/people/post/hifz1/)
 
 The method and steps are layed out below.
 
-Files:
+## Files:
 
 I have a Journal folder where I will keep track of my progress, what Surahs/Verses I'm trying to learn and how it's going.
 
@@ -19,18 +19,20 @@ Obviously the file itself will contain the full journal entry.
 
 ---
 
-# The Five Minute Hifz Method.
-
-Or just 'Five Minute Hifz'. I think that sounds better.
-
-As of 21.05.2025 I still need to make the repo and start the experiment in a somewhat reproducable manner. However for now the basics are as follows:
+# Five Minute Hifz.
 
 To make things easier, I will refer to the 'commiting to memory' stage as input and the 'recalling the verses' stage as recall. There will also be a revision stage as you will see below.
 
 
 ## Stage 1: Input.
 
-Around Fajr time, either before or just after you pray, spend up a maximum of 5 mins (yes maximum) revising a verse or a number of verses you want to learn.
+Around Fajr time, either before or just after you pray, spend up to a maximum of 5 mins (yes maximum) revising a verse or a number of verses you want to learn.
+
+Why 5 minutes? No, not just because that’s the name of the method. Limiting your practice time in the morning as well as not looking at the verses or listening to them throught the day tricks your brain into thinking that this information is more rare and therefore more valuable.
+
+In mnemonics (The scientific study of memory) there is a famous technique for memorising vast ammounts of information known as the memory palace. One of it’s noteworthy points is, the stranger and rarer you can make a piece of information seem, the more likeley it is to stick.
+
+So, by creating the illusion of rarity the hope is that the brain will assign greater importance to the information than if the classical method was used (because the classical method engulfs the student in an ocean of repetition) and so is more likeley to hold onto it.
 
 As I'm exeptionally slow at reading Arabic I also listen to audio (with airpods) of the verses I'm trying to learn while reading along and following the words on the Quran app.
 
@@ -38,11 +40,11 @@ If you're learning a short enough Surah you can listen to the whole surah.
 
 When the 5 mins are up, close your Quran or Quran app and stop any audio recordings of the verses you were listenting to.
 
-You are now no longer allowed to listen to or read that those verses (by sight) for the rest of the day until you're basically about to go to bed.
+You are now no longer allowed to listen to or read those verses (by sight) for the rest of the day until you're basically about to go to bed.
 
 ## Stage 2: Recall.
 
-Throught the day, try as much as you can to recall the verses you read in the morning. Don't worry if at first it seems almost impossible or you only remember one verse.
+Throught the day, try as much as you can to recall the verses you read in the morning. Don't worry if at first it seems almost impossible or you only remember one verse. You don’t have to constantly recall the verses either. It should be casual and throught the day in a way that isn’t stressfull or preassuring.
 
 Whatever you can remember is progress and the more you try (over time) the better you will get at recalling verses.
 
